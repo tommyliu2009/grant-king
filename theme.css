@@ -1,0 +1,30 @@
+/* 獎補助資訊網 theme（由 agy 產生，2026-10-24）— 載入於 style.css 之後 */
+:root{--brand:#002c66;--brand2:#205dab;--ink:#333;--muted:#616161;--line:#e5e5e5;--bg:#faf7ef;--card:#fff;--radius:6px}
+body{background-color:var(--bg);color:var(--ink);font-family:'Microsoft JhengHei','PingFang TC','Noto Sans TC',sans-serif}
+a{color:var(--brand2)}a:hover{color:#00214d}
+.hero{background:#002c66;color:#fff;border-bottom:4px solid #8b6937}
+.hero h1,.hero .sub,.hero .brand,.sub,.brand{color:#fff}
+.bignum{color:#fff}.bignum b,.bignum span{color:#d8c690}
+.searchbar{background:linear-gradient(135deg,#d8c690 0%,#b89d5e 100%);border-radius:var(--radius);padding:12px}
+.searchbar input{background:#fff;color:#333;border:2px solid #8b6937;border-radius:999px}
+.searchbar input:focus{outline:none;border-color:#002c66}
+.qbtn{background:#8b6937!important;color:#fff!important;border:1px solid #8b6937!important;border-radius:999px}
+.qbtn:hover{background:#00214d!important;border-color:#00214d!important}
+.stats .stat{background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.28);border-radius:var(--radius)}
+.stats .stat b{color:#d8c690}
+.chip{background:#fff;color:#333;border:1px solid #e5e5e5;border-radius:999px}
+.chip:hover{border-color:#002c66;color:#002c66}.chip.on{background:#002c66;color:#fff;border-color:#002c66}
+.hero .chip{background:rgba(255,255,255,.9)}.hero .chip.on{background:#8b6937;border-color:#8b6937;color:#fff}
+.filters{background:#fff;border:1px solid #e5e5e5;border-radius:var(--radius)}
+.card{background:#fff;border:1px solid #e5e5e5;border-left:4px solid #e5e5e5;border-radius:var(--radius)}
+.card:hover{border-left:4px solid #002c66;border-color:#c9d3e3}.card h3,.card h3 a{color:#002c66}
+.btn.primary{background:#002c66;color:#fff;border-color:#002c66;border-radius:var(--radius)}
+.btn.primary:hover{background:#00214d;border-color:#00214d}
+.ad{background:#fff!important;border:2px solid #8b6937!important;border-radius:var(--radius)}
+.ad .ad-name,.ad-name{color:#8b6937!important;font-weight:700}.ad a{color:#205dab!important}
+.mad{background:#fff!important;border:2px solid #8b6937!important;color:#333!important;border-radius:var(--radius)!important}
+.mad b,.mad a{color:#8b6937!important}
+.geo-sum{background:#fff!important;border-left:4px solid #8b6937!important;color:#333!important}
+.foot{background:#002c66;color:#fff;border-top:3px solid #8b6937}.foot a{color:#d8c690}.foot .muted{color:#c9d3e3}
+.dialog h2{color:#002c66;border-bottom:2px solid #8b6937}
+@media(max-width:768px){.searchbar{padding:10px}}
