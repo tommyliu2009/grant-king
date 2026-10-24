@@ -35,3 +35,4 @@ h2{color:#002c66;font-size:20px;margin:0 0 12px;padding-bottom:6px;border-bottom
 .foot b{color:#fff;display:block;margin-bottom:6px}.foot a{color:#d8c690;display:block}.foot .copy{border-top:1px solid rgba(255,255,255,.15);padding:12px 20px;font-size:13px}
 @media(max-width:860px){.mast>.in{flex-direction:column;align-items:stretch}.adbox{order:2}.logo b{font-size:22px}.menu .in{overflow-x:auto;flex-wrap:nowrap}.menu a{white-space:nowrap}
 .kpi{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr}.m-hide{display:none}.foot .cols{grid-template-columns:1fr}.util .in{flex-direction:column}h1{font-size:22px}}
+.logo small{letter-spacing:.12em}.foot small.en{display:block;color:#d8c690;letter-spacing:.08em;margin:-4px 0 6px}
