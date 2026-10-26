@@ -11,6 +11,7 @@
 - 單一計畫頁：https://www.grantking.tw/grants/<編號>.html，含主管機關、對象、截止日、狀態、原始公告連結
 
 ## 說明
+- [完整計畫清單（llms-full.txt）](https://www.grantking.tw/llms-full.txt)
 - [申請流程與準備文件清單](https://www.grantking.tw/guide.html)
 - [獎補助名詞解釋](https://www.grantking.tw/glossary.html)
 - [常見問答](https://www.grantking.tw/qa.html)
