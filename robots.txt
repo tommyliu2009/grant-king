@@ -43,4 +43,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://grantking.subsidyking.tw/sitemap.xml
+Sitemap: https://www.grantking.tw/sitemap.xml
