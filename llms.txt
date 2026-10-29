@@ -1,12 +1,12 @@
 # 獎補助資訊網（Taiwan Grant & Award Information，www.grantking.tw）
-> 臺灣公部門獎勵與補助計畫目錄：以主管機關、申請對象與截止日期整理中央部會、縣市政府與鄉鎮市區公所的公告，現行 3,074 項，每日清晨更新（最近：2026-10-29 02:46，台北時間）。
+> 臺灣公部門獎勵與補助計畫目錄：以主管機關、申請對象與截止日期整理中央部會、縣市政府與鄉鎮市區公所的公告，現行 3,076 項，每日清晨更新（最近：2026-10-30 02:47，台北時間）。
 
 維運：仁禾管理顧問（renhe74123@gmail.com，LINE 官方帳號：@891tcxhu）。各計畫內容以主管機關公告為準。
 
 ## 瀏覽方式
 - [找獎補助（關鍵字搜尋）](https://www.grantking.tw/search.html)
 - [截止日曆](https://www.grantking.tw/deadlines.html)：依月份列出未截止計畫
-- [依主管機關](https://www.grantking.tw/agencies/)：93 個機關分類
+- [依主管機關](https://www.grantking.tw/agencies/)：94 個機關分類
 - [依申請對象](https://www.grantking.tw/audiences/)：企業、民間團體、學校研究、個人青年、政府機關
 - 單一計畫頁：https://www.grantking.tw/grants/<編號>.html，含主管機關、對象、截止日、狀態、原始公告連結
 
@@ -18,8 +18,6 @@
 - [關於本站與資料來源](https://www.grantking.tw/about-data.html)
 
 ## 目前收件中（節錄）
-- [115年臺南地方產業原鄉永續小旅行振興計畫](https://www.grantking.tw/grants/42.html)：臺南市政府，截止 2026-10-29
-- [量子躍昇專案研究計畫（構想書徵求）](https://www.grantking.tw/grants/48716.html)：國家科學及技術委員會自然科學及永續研究發展處，截止 2026-10-29
 - [提升商業服務業營運效能強化韌性計畫－整合型補助第四梯（智慧營運整合）](https://www.grantking.tw/grants/43.html)：經濟部商業發展署，截止 2026-10-30
 - [雲市集工業館－AI工具庫點數補助](https://www.grantking.tw/grants/44.html)：經濟部產業發展署，截止 2026-10-30
 - [2026年新創採購獎－創新典範獎](https://www.grantking.tw/grants/45.html)：經濟部中小及新創企業署，截止 2026-10-30
@@ -48,3 +46,5 @@
 - [文化部推廣文學閱讀及人文活動補助（116年度）](https://www.grantking.tw/grants/48656.html)：文化部，截止 2026-10-31
 - [115年度臺中市公寓大廈成立管理委員會補助](https://www.grantking.tw/grants/48658.html)：臺中市政府住宅發展工程處，截止 2026-10-31
 - [116年度第一期表演藝術類補助（高雄市，1–4月活動）](https://www.grantking.tw/grants/48660.html)：高雄市政府文化局，截止 2026-10-31
+- [116年度社區林業計畫](https://www.grantking.tw/grants/48662.html)：農業部林業及自然保育署，截止 2026-10-31
+- [客家委員會116年度藝文團隊補助](https://www.grantking.tw/grants/48663.html)：客家委員會，截止 2026-10-31
