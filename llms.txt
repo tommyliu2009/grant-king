@@ -1,5 +1,5 @@
 # 獎補助資訊網（Taiwan Grant & Award Information，www.grantking.tw）
-> 臺灣公部門獎勵與補助計畫目錄：以主管機關、申請對象與截止日期整理中央部會、縣市政府與鄉鎮市區公所的公告，現行 3,076 項，每日清晨更新（最近：2026-10-30 02:47，台北時間）。
+> 臺灣公部門獎勵與補助計畫目錄：以主管機關、申請對象與截止日期整理中央部會、縣市政府與鄉鎮市區公所的公告，現行 3,077 項，每日清晨更新（最近：2026-10-31 02:39，台北時間）。
 
 維運：仁禾管理顧問（renhe74123@gmail.com，LINE 官方帳號：@891tcxhu）。各計畫內容以主管機關公告為準。
 
@@ -18,21 +18,6 @@
 - [關於本站與資料來源](https://www.grantking.tw/about-data.html)
 
 ## 目前收件中（節錄）
-- [提升商業服務業營運效能強化韌性計畫－整合型補助第四梯（智慧營運整合）](https://www.grantking.tw/grants/43.html)：經濟部商業發展署，截止 2026-10-30
-- [雲市集工業館－AI工具庫點數補助](https://www.grantking.tw/grants/44.html)：經濟部產業發展署，截止 2026-10-30
-- [2026年新創採購獎－創新典範獎](https://www.grantking.tw/grants/45.html)：經濟部中小及新創企業署，截止 2026-10-30
-- [115年度補助企業布建海外通路計畫](https://www.grantking.tw/grants/46.html)：經濟部國際貿易署，截止 2026-10-30
-- [116年度海洋保育在地守護計畫](https://www.grantking.tw/grants/47.html)：海洋委員會，截止 2026-10-30
-- [116年罕見疾病防治工作補助計畫](https://www.grantking.tw/grants/48.html)：衛生福利部國民健康署，截止 2026-10-30
-- [116年原住民村落文化發展計畫](https://www.grantking.tw/grants/49.html)：文化部，截止 2026-10-30
-- [116年度戲曲新作發表補助計畫](https://www.grantking.tw/grants/50.html)：文化部，截止 2026-10-30
-- [116年度原住民族傳統技藝及文化人才培育補助計畫](https://www.grantking.tw/grants/51.html)：原住民族委員會，截止 2026-10-30
-- [農業部116年度補助科技計畫](https://www.grantking.tw/grants/52.html)：農業部，截止 2026-10-30
-- [116年傳統表演藝術青年展演平台場地優惠專案](https://www.grantking.tw/grants/48639.html)：國立傳統藝術中心，截止 2026-10-30
-- [2027文化部文化資產學院計畫](https://www.grantking.tw/grants/48666.html)：文化部文化資產局，截止 2026-10-30
-- [116年度從事精神疾病病人社區支持及復健服務獎勵補助計畫](https://www.grantking.tw/grants/48691.html)：衛生福利部，截止 2026-10-30
-- [116年度疑似或社區精神病人照護優化計畫](https://www.grantking.tw/grants/48701.html)：衛生福利部（心理健康司），截止 2026-10-30
-- [116年度晶創人文跨域前瞻研究計畫](https://www.grantking.tw/grants/48709.html)：國家科學及技術委員會人文及社會科學研究發展處，截止 2026-10-30
 - [小型企業人力提升計畫（115年度）](https://www.grantking.tw/grants/53.html)：勞動部勞動力發展署，截止 2026-10-31
 - [116年度客家文藝復興補助](https://www.grantking.tw/grants/55.html)：客家委員會，截止 2026-10-31
 - [116年度國立臺灣文學館優良文學雜誌補助](https://www.grantking.tw/grants/56.html)：國立臺灣文學館，截止 2026-10-31
@@ -48,3 +33,18 @@
 - [116年度第一期表演藝術類補助（高雄市，1–4月活動）](https://www.grantking.tw/grants/48660.html)：高雄市政府文化局，截止 2026-10-31
 - [116年度社區林業計畫](https://www.grantking.tw/grants/48662.html)：農業部林業及自然保育署，截止 2026-10-31
 - [客家委員會116年度藝文團隊補助](https://www.grantking.tw/grants/48663.html)：客家委員會，截止 2026-10-31
+- [客家委員會推行公事客語無障礙環境補助計畫（116年度）](https://www.grantking.tw/grants/48664.html)：客家委員會，截止 2026-10-31
+- [116年文化部輔導數位出版產業發展補助](https://www.grantking.tw/grants/48679.html)：文化部（人文及出版司），截止 2026-10-31
+- [116年度上半年產業新尖兵計畫訓練課程受理（延長）](https://www.grantking.tw/grants/48690.html)：勞動部勞動力發展署，截止 2026-10-31
+- [115年臺南市民旅遊補助計畫](https://www.grantking.tw/grants/48702.html)：臺南市政府觀光旅遊局，截止 2026-10-31
+- [花蓮縣各級農漁會115年度資本設備申請及核銷作業](https://www.grantking.tw/grants/48722.html)：花蓮縣政府，截止 2026-10-31
+- [原住民族委員會116年度「Mataisah．原夢計畫」](https://www.grantking.tw/grants/48728.html)：原住民族委員會，截止 2026-10-31
+- [文化部科技藝術創作發展補助作業要點（116年度創作計畫）](https://www.grantking.tw/grants/61.html)：文化部，截止 2026-11-01
+- [116年文化部漫畫創作及出版行銷獎勵](https://www.grantking.tw/grants/62.html)：文化部，截止 2026-11-02
+- [116年度文化部視覺藝術類補助](https://www.grantking.tw/grants/63.html)：文化部，截止 2026-11-02
+- [臺北市政府文化局116年度藝文補助（第一期）](https://www.grantking.tw/grants/64.html)：臺北市政府文化局，截止 2026-11-02
+- [國立傳統藝術中心補助作業要點（116年度第一期）](https://www.grantking.tw/grants/65.html)：文化部國立傳統藝術中心，截止 2026-11-02
+- [116年食農教育推廣計畫](https://www.grantking.tw/grants/66.html)：農業部，截止 2026-11-02
+- [文化部116年度推動實體書店發展補助作業](https://www.grantking.tw/grants/67.html)：文化部，截止 2026-11-02
+- [116年度廢熱與廢冷回收技術示範應用專案（第2梯次）](https://www.grantking.tw/grants/68.html)：經濟部能源署，截止 2026-11-02
+- [115-116年度充實在地牙醫醫療量能「導入牙醫師至無牙醫師執業地區補助計畫」](https://www.grantking.tw/grants/48696.html)：衛生福利部，截止 2026-11-02
